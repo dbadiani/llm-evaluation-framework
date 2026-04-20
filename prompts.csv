@@ -1,0 +1,6 @@
+id,prompt,expected_keywords
+1,What is the capital of France?,Paris
+2,Explain unit testing in simple terms,testing,bugs,confidence
+3,Write a polite email asking for a refund,refund,please,thank
+4,"Explain why the sky is blue to a 6-year-old","blue,light,sky"
+5,Give three benefits of exercise,health,energy,fitness
